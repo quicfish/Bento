@@ -92,8 +92,8 @@ const CONFIG = {
         link: 'https://quictube.com',
       },
       {
-        name: 'YouTube',
-        link: 'https://www.youtube.com',
+        name: 'Gab TV',
+        link: 'https://tv.gab.com/guide/',
       },
       {
         name: 'Rumble',
@@ -114,12 +114,12 @@ const CONFIG = {
         link: 'https://gab.com/',
       },
       {
-        name: 'Gab TV',
-        link: 'https://tv.gab.com/guide/',
+        name: 'Pool Penny',
+        link: 'https://poolpenny.com',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'WoodWerx',
+        link: 'https://woodwerx.us',
       },
     ],
   },
