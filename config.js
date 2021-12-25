@@ -81,41 +81,41 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
+  firstListIcon: 'video',
   secondListIcon: 'coffee',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'QuicTube',
+        link: 'https://quictube.com',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'YouTube',
+        link: 'https://www.youtube.com',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Rumble',
+        link: 'https://www.rumble.com',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Odysee',
+        link: 'https://www.odysee.com',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'News',
+        link: 'https://gab.com/news/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Gab',
+        link: 'https://gab.com/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Gab TV',
+        link: 'https://tv.gab.com/guide/',
       },
       {
         name: 'Telegram',
